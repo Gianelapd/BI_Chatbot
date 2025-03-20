@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # BI_Chatbot
-Next-generation AI-powered assistant, designed to bridge natural language queries with structured database insights. Leveraging Google Gemini 1.5 Flash, this chatbot seamlessly integrates SQL retrieval, data analysis, and Python execution, allowing users to extract meaningful insights from complex datasets effortlessly.
-=======
-# table-llm-chatbot
- The agent interacts with an SQL database created from uploaded files (.csv, .xlsx, .xls, .parquet) to answer user's questions on the data.
 
+Next-generation AI-powered assistant, designed to bridge natural language queries with structured database insights. Leveraging Google Gemini 1.5 Flash, this chatbot seamlessly integrates SQL retrieval, data analysis, and Python execution, allowing users to extract meaningful insights from complex datasets effortlessly.
 
 ### Create and activate the environment
 ```
@@ -25,4 +21,4 @@ pip install -r requirements.txt
 ```
 chainlit run app.py -w
 ```
->>>>>>> c284a1f (BMLL Projetc)
+
